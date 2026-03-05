@@ -41,4 +41,3 @@ Netflix Titles Dataset
 ## Author
 
 Sneha Besu  
-Computer Science Graduate from UNSW
