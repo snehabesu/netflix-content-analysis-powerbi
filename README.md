@@ -36,9 +36,8 @@ This project explores Netflix's content catalogue to understand how content is d
 ## Dataset
 
 Netflix Titles Dataset  
-(Source: publicly available dataset commonly used for data analysis practice)
+(public dataset used for data analysis practice)
 
 ## Author
 
 Sneha Besu  
-Computer Science Graduate from UNSW
